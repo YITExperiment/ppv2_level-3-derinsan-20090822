@@ -1,4 +1,4 @@
 
-weight= 30
+weight=35
 print(weight)
-30
+35

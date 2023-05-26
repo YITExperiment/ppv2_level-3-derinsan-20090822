@@ -58,5 +58,3 @@ def hide_happy(event):
 c.bind('<Motion>', show_happy)
 c.bind('<Leave>', hide_happy)
 root.mainloop()
-
-
